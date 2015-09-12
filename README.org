@@ -1,6 +1,6 @@
 * Random tinted blob background in Unity
 
-See blog post at [[http://zerosalife.github.io][zerosalife.github.io]]
+See [[http://zerosalife.github.io/blog/2015/09/12/cheeky-tinted-blobs/][blog post]] at [[http://zerosalife.github.io][zerosalife.github.io]]
 
 ** Screenshot
 [[http://zerosalife.github.io/images/assets/tinted-blobs-screenshot.png]]
